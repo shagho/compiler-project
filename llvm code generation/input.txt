@@ -1,0 +1,19 @@
+function x()
+{
+	int n = read();
+	write(n);
+	write('salam');
+}
+
+(int r) = function start()
+{
+    x();
+    int a = 10 + 2 * 7;
+    write(a);
+    int b = 10;
+    a = a * 30 - b + (6/2);
+    write(a);
+    int e = read();
+    e = e + 1;
+    write(e);
+}

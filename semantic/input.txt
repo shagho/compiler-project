@@ -1,0 +1,48 @@
+$$ A sample program 
+type myType {
+public int x;
+public (float y) = function myType(int z){
+this.x = 10;
+if z > this.x
+y = 23.5;
+else
+{
+y = 15.2;
+}
+}
+}
+(int r) = function start()
+{
+const float c = 0.23;
+int s = read();
+float w;
+(r, w) = f1(s, d);
+}
+(int x, float y) = function f1(int b)
+{
+myType a = allocate myType();
+y = a.x + b;
+x = 0;
+}$$
+
+type T {
+(int s)=function d(){
+	float k;
+	if k+1
+	k=k+1;
+}	
+(int s)=function T()
+{
+	s = 10;
+}
+
+    private int x;
+    public int y;
+    protected int z;
+}
+
+(int r) = function start(){
+    T t = allocate T();
+    t.y.z.x();
+    r = 0;
+}
